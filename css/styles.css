@@ -49,24 +49,24 @@ footer{
     text-align: center;
 }
 
-h1, h3 {
+h1 {
     font-family: 'MatissePro-EB', 'Arial Narrow', Arial, sans-serif;
     text-transform: uppercase;
     color: #304153;
 }
 
-h6 {
+h3, h6 {
     font-family: 'MatissePro-DB', 'Arial Narrow', Arial, sans-serif;
     text-transform: uppercase;
     color: #304153;
 }
 
 h1 {
-    font-size: 72px;
+    font-size: 54px;
 }
 
 h3 {
-    font-size: 36px;
+    font-size: 30px;
 }
 
 h6 {
@@ -83,7 +83,8 @@ ul {
 
 p{
     font-family: 'MatissePro-DB', 'Arial Narrow', Arial, sans-serif;
-    font-size: 14px;
+    font-size: 12px;
+    margin-bottom: 0px;
     color: #ffffff;
 }
 
