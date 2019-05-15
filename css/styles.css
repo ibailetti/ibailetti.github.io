@@ -1,0 +1,96 @@
+
+@font-face {
+    font-family: MatissePro-DB;
+    src: url("fonts/FOT-MatissePro-DB_0.otf") format("opentype");
+}
+
+@font-face {
+    font-family: MatissePro-EB;
+    src: url("fonts/FOT-MatissePro-EB_0.otf") format("opentype");
+}
+
+@font-face {
+    font-family: MatissePro-L;
+    src: url("fonts/FOT-MatissePro-L_0.otf") format("opentype");
+}
+
+
+.one {
+    background-color: #f3f3f3;
+}
+
+.two{    
+    background-color: #ffffff;
+}
+
+.three{
+    background-color: #304153;
+}
+
+header {
+    padding-top: 45px;
+    padding-bottom: 45px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+section {
+    padding-top: 27px;
+    padding-bottom: 27px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+footer{
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+h1, h3 {
+    font-family: 'MatissePro-EB', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    color: #304153;
+}
+
+h6 {
+    font-family: 'MatissePro-DB', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    color: #304153;
+}
+
+h1 {
+    font-size: 72px;
+}
+
+h3 {
+    font-size: 36px;
+}
+
+h6 {
+    font-size: 24px;
+}
+
+ul {
+    font-family: 'MatissePro-L', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    padding: 0px;
+    list-style: none;
+    color: #304153;
+}
+
+p{
+    font-family: 'MatissePro-DB', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+img.qrcode{
+    width: 100px;
+    height: 100px;
+}
+img.photo{
+    width: 220px;
+    height: 220px;
+}
